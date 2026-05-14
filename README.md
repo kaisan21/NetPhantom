@@ -98,7 +98,7 @@ All scan output is automatically saved to timestamped `.txt` and `.xml` logs. A 
 ### 1 · Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/netphantom.git
+git clone https://github.com/kaisan21/netphantom.git
 cd netphantom
 ```
 
