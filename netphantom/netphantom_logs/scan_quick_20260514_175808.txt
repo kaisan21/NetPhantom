@@ -1,0 +1,11 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-05-14 17:58 -0400
+Nmap scan report for youtube.com (192.178.174.91)
+Host is up (0.079s latency).
+Other addresses for youtube.com (not scanned): 192.178.174.93 192.178.174.136 192.178.174.190 2404:6800:4000:101f::5b 2404:6800:4000:101f::be 2404:6800:4000:101f::88 2404:6800:4000:101f::5d
+rDNS record for 192.178.174.91: lcbomo-in-f91.1e100.net
+Not shown: 98 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.86 seconds
